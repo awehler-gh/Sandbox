@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-01-16T11:15:27+01:00
+
+====== 10.IconsTest ======
+Created Saturday 16 January 2016
+
+===== About =====
+	{{/Icons/led-green.gif}}	# Normal text: works out of the box
+	'''
+	this is text 
+	typed as teletype.
+	'''
+	
+	
+	[[/Icons/led-green.gif]]
+
+	* [[/Icons/led-yellow.gif]]		# {{/Icons/led-yellow.gif}}
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-green.gif}}
+

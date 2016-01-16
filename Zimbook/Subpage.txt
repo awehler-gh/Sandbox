@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-01-16T11:16:16+01:00
+
+====== Subpage ======
+Created Saturday 16 January 2016
+
+===== Another test =====
+	{{/Icons/led-purple.gif}}	# works also
+	[[/Icons/led-purple.gif]]
+
+

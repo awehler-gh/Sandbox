@@ -1,0 +1,12 @@
+[Notebook]
+name=Zimbook
+version=0.4
+endofline=unix
+profile=
+home=00.Agenda
+shared=False
+disable_trash=True
+icon=None
+document_root=~/info/GhProjects/Kinkerlitzchen
+interwiki=
+

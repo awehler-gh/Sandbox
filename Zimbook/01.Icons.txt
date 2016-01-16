@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-01-16T12:39:34+01:00
+
+====== 01.Icons ======
+Created Saturday 16 January 2016
+
+===== About =====
+	* [[/Icons]]	# __thunar__ 			# __files__  xx
+	* [[/Icons]]
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-red.gif}}
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-yellow.gif}}
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-green.gif}}
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-blue.gif}}
+	* [[/Icons/led-green.gif]]		# {{/Icons/led-orange.gif}}
+	* [[/Icons/hdd.3.svg]]			# {{/Icons/hdd.3.svg?width=16}}
